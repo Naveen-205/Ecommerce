@@ -1,7 +1,7 @@
-## Zero Brand - E-commerce Website
+## ZERO Brand - E-commerce Website
 
 ## Overview
-Zero Brand is a fully responsive e-commerce website built using HTML, CSS, and JavaScript. This project showcases a sleek and modern design, providing an engaging shopping experience with interactive features and media query support for different screen sizes.
+ZERO Brand is a fully responsive e-commerce website built using HTML, CSS, and JavaScript. This project showcases a sleek and modern design, providing an engaging shopping experience with interactive features and media query support for different screen sizes.
 
 ## Features
 - **Responsive Design:** Adapts to various screen sizes using media queries.
